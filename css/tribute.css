@@ -92,7 +92,7 @@ li {
   z-index: auto;
 }
 
-div {
+.div {
   box-sizing: border-box;
   width: 100%;
 }
