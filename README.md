@@ -4,6 +4,6 @@ It makes up the first part of My Coding Portfolio.
 
 You can see this project live at the following URL:
 
-https://muniruibrahimsesay.github.io/great-lagoon-nebula-tribute-page/
+https://muniruibrahimsesay.github.io/Great-Lagoon-Nebula-Tribute-Page/
 
 ENJOY!!!
