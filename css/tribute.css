@@ -73,6 +73,11 @@ li {
   margin: 16px 0;
 }
 
+#image {
+  max-width: 500px;
+  display: block;
+}
+
 #img {
   max-width: 1000px;
   display: block;
